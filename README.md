@@ -2,3 +2,4 @@
 
 Members of the programming team this year:
 - Collin Williams
+- John Swanson
